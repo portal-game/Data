@@ -1,4 +1,4 @@
-@ServerFile: 
+@ServerFile: https://raw.githubusercontent.com/portal-game/Data/main/Servers.txt
 
 Rohith Vishwajith (EID: rv24456)
 CS 370F
