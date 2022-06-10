@@ -1,0 +1,23 @@
+@ServerFile: github.com/
+
+-----------------------------------------------------------------------
+
+Rohith Vishwajith
+EID: rv24456
+CS 370F - Summer 2022
+
+This is the very first file read on the client
+side on startup.
+
+For this reason, this file is also the only one which is
+stored at an unchangeable permalink. It is meant to tell
+the client the URLs of the files that store all of the other
+public data, such as servers and client binaries.
+
+For this reason, the URL of this file should not be changed
+unless absolutely necessary, because then the latest client
+would have to be redownloaded completely.
+
+It's good to have one static URL, so that all of the other
+public URLs can be linked from this and changed easily
+when necessary.
